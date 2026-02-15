@@ -26,3 +26,4 @@ async function searchPost(id) {
 
 // Ejemplo de uso:
 searchPost(1);  // Imprimirá el título en mayúsculas
+searchPost(999); // Probablemente imprima "El post no pudo ser hallado"
